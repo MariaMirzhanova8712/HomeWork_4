@@ -1,6 +1,6 @@
 package ConditionalOperators;
 
-public class TimeOfDay_2_3_4_task {
+public class TimeOfDay_2_3_task {
 
     public static void main(String args[]) {
 

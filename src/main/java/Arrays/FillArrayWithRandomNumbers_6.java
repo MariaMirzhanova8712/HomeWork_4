@@ -1,4 +1,4 @@
-package Arreys;
+package Arrays;
 
 import java.util.concurrent.ThreadLocalRandom;
 

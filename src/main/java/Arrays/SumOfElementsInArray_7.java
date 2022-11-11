@@ -1,8 +1,9 @@
-package Arreys;
+package Arrays;
 
 import java.util.concurrent.ThreadLocalRandom;
 
 public class SumOfElementsInArray_7 {
+
     public static void main(String[] args) {
         int legth = 7;
         int[] array = new int[legth];
@@ -12,6 +13,6 @@ public class SumOfElementsInArray_7 {
             System.out.println(i + " " + array[i]);
             sum = sum + array[i];
         }
-        System.out.println(sum);
+        System.out.println("сумма случайных чисел из массива длинной из " + legth + " элементов = " + sum);
     }
 }

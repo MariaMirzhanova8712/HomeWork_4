@@ -1,4 +1,4 @@
-package Arreys;
+package Arrays;
 
 public class FillArrayAutomatically_4 {
 
